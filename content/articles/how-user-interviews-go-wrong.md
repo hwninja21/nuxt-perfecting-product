@@ -1,0 +1,36 @@
+---
+title: How User Interviews Go Wrong
+description: Administering a solid user interview process isn't easy or straight forward. Its results are easily distorted by the influence of ordinary human incentives. Here are some common mistakes to watch out for.
+img: /how-user-interviews-go-wrong/how-user-interviews-go-wrong.png
+alt: my first blog post
+tag: customer research
+---
+
+User interviews are one of the most important parts of customer research. If you want to build a product that succeeds, you need to know how people currently use the products that already succeed in the market.
+If you don’t have consistent product engagement and retention data, you need user interviews to figure out how people use your product to nail your product’s positioning and scale your growth.
+Just because user interviews are important doesn’t mean administering a solid user interview process is easy or straight forward. Like most kinds of customer research, the user interview process and its results easily get distorted by the influence of ordinary human incentives.
+Human incentives such as wanting to look good in social situations and get validation by our peers distort our interview subjects’ answers while career incentives often shape how user interview results are interpreted and communicated to leadership. In many scenarios, customer research is affected by bias at both ends of its collection.
+The problem of course is that solving these bias problems isn't easy.
+Your approach to customer research process needs to be strategic. Since user research informs your business and product, any fundamental misunderstanding of it costs you what you invested into engineering.
+Put another way, whatever time and money you spend on engineering is meaningless if the product you build with it isn't something people need.
+## Common User Interviewing Problems
+The following are just some of the problems we solve within the user interviewing process.
+### Not Qualifying Your User Interview Subjects
+One of the first mistake companies make in the user interview process happens before the user interviews even begin. Not properly qualifying user interview subjects is a tempting problem for many companies. They want to collect as much data and get as much feedback in the user interview process as possible. They likely understand that there are minimum thresholds for the number of user interviews and interview subjects they need to be able to generalize their user interviewing results to the broader audience of users and customers they already have or are in current pursuit of. 
+Unfortunately, most people you can quickly get ahold of for user interviews will likely not be a fit. That's because there are a number of criteria you need to qualify your interview subjects for before you can be sure that their feedback will be worth your time and engineering talent to develop for. YES, I did not say the amount of time you spend in the user interviewing process. The amount of time and money you spend on engineering is always the most relevant factor in any aspect of customer research and direct investment into research is healthy validation. 
+### Qualifying user interview subjects based on prospective interest instead of past behavior
+When it comes to customer research, prospective interest doesn't count for much. Sure the person who reached out to you after you posted about your new venture on LinkedIn might have responded back excitedly saying that they would love to use this product and they may have even been someone who's well qualified on their own. They might be a business owner who has a number of employees, but you might just as quickly find out that they don't have any interest in paying for a solution and the existing products that you're competing with and that they currently use, isn't something that they currently pay for. 
+Excitement doesn't equal interest and interest must be qualified.
+In my experience performing hundreds of user interviews, many of the smartest and most accomplished people I knew didn't have past behaviors that qualified them enough for their smart and interesting opinions to be used and generalized back on my larger customer audiences.
+Some of the smartest and most accomplished people you could interview won't offer useful feedback because their situation's not reflective of your current or prospective customers.
+### Not using disqualifying interview questions
+Just as many companies don't do enough work qualifying their user interview subjects, many companies also don't do the hard but very important work of disqualifying their user interview subjects.
+For an example, imagine you have a prospective customer who has the problem you solve, they're in the market looking to buy, they've shown evidence of this behavior, they have a budget, and they're ready to buy.
+Now many people would say that person would be a great user interview subject, but hold on a sec. Many people who work in sales would know this is only part of the sales process and that we don't yet know enough about them to determine whether they might be willing or able to buy our solution.
+Are they the person who makes that purchasing decision? Are there any other stakeholders in this purchasing decision's process? Is the amount of money they're looking to spend much higher than you charge? Or is it much lower? Do they require certain invoicing procedures? 
+There are lots of false positive interview subjects you might encounter in your user interviewing process. A solid process covers the most likely problems to look out for.
+### Being too friendly in the user interview process
+Being friendly is one of the easiest ways to get people to open up about how their current or existing habits, but it often comes at a cost. The same people who're you're looking to collect evidence from will often change the tone and moderation of their answers to either agree and amplify their responses, given you false positive answers or avoid the mention of product and UX problems.
+Worse than accidentally shifting the tone of interview conversations is that the actions people often engage in to make their user interview subjects feel more comfortable also distract your interview subjects away from the important conversations. It may be easy to open up your conversations with questions about their day or by engaging in quick chit chat, but conversational tangents often become traps.
+It's important to mention that our main goal in the customer research process is to collect the evidence for negative emotion. Whether we're using the evidence of emotional pain for qualifying prospective customer interest, identifying existing and unsolved problems, or identifying the most pressing issues users are facing with our own product, our customers' and users' emotional pain is something we need a painstakingly accurate assessment of.
+When we're too friendly in the user interview process our users don't accurately remember and share the evidence of their emotional pain we need to make business, product, and engineering decisions.
